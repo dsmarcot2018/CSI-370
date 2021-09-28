@@ -1,5 +1,3 @@
-; First Program for MASM 32-bit
-
 .386						; Signifying that the program is in 32 bit
 .MODEL FLAT, stdcall				; Sets up the FLAT memory model
 .STACK 4096					; Alotting stack size
