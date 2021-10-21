@@ -1,1 +1,1 @@
-# CSI-370 Computer Architecture Coursework
+# Champlain College Class Coursework
