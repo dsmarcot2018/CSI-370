@@ -1,6 +1,6 @@
 ### Assignment 3
 Create a program that calculates the following expression: *answer = (A + B) - (C + D)*
- - 32 bit masm program
+ - 32 bit MASM program
  - The answer must be stored in a variable of the correct data type.
  - The values for your data *(A, B, C, D)* must be stored in registers, not variables.
  - You must supply the initial values for the data *(A, B, C, D)*.
